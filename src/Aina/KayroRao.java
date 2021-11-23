@@ -2,6 +2,6 @@ package Aina;
 
 public class KayroRao {
     public static void main(String[] args) {
-        System.out.println();
+        System.out.println("Good Mood");
     }
 }
